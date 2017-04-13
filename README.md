@@ -60,7 +60,7 @@ It's not just the tacos on Tacofancy that are open source, but the idea and the 
 * [the_great_taco_hunt](http://github.com/hunterowens/the_great_taco_hunt) is a repo dedicated to documenting great taco locations, inspired by Tacofancy.
 
 
-Endnotes
+Endnotes 
 --------
 
 This whole thing began on a cold November evening with the warmth of some [steak, sweet potato, and apple tacos](/full_tacos/steak_sweet_potato_and_apple_tacos.md) aglow in my belly. It started with just three recipes in it. Now it has well over a hundred. Nice job, world.
